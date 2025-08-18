@@ -1,4 +1,5 @@
 //@ts-nocheck
+export const dynamic = "force-dynamic";
 import Image from "next/image";
 import { gql } from "graphql-request";
 import gqlclient from "@/services/graph";

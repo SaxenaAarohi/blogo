@@ -52,6 +52,7 @@ export default function Signup() {
                 <form className="space-y-2" onSubmit={handlesubmit}>
 
                     <div>
+                        
                         <label className=" text-gray-700 font-medium ">Email</label>
                         <input
                             type="email"
