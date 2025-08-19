@@ -1,3 +1,6 @@
 import { GraphQLClient } from "graphql-request";
-const gqlclient = new GraphQLClient("http://localhost:3000/api/graphql");
+const gqlclient = new GraphQLClient("https://blogo-nu-pearl.vercel.app/api/graphql");
 export default gqlclient;
+
+
+
